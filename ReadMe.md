@@ -39,4 +39,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-credit go to Stack Austin Police for the data.  You can find it  [here](https://www.austintexas.gov/page/datasets).
+credit go to Austin Police for the data.  You can find it  [here](https://www.austintexas.gov/page/datasets).
