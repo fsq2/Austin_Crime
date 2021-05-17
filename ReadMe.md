@@ -35,7 +35,7 @@ For this project, I was interestested in using Austin Crime Data from 2015 to 20
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/9a29afc91e8a).
+The main findings of the code can be found at the post available [here](https://s-w-f1437.medium.com/crime-in-austin-9a29afc91e8a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
